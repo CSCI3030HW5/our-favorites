@@ -1,2 +1,4 @@
 Chicken
 Potato
+Steak
+Pizza
