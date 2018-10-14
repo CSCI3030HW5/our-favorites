@@ -1,7 +1,19 @@
-Chicken
-Ham
-Pizza
-Potato
-Steak
+-Chicken
 
+[meat]
 
+-Ham
+
+[meat]
+
+-Pizza
+
+[other]
+
+-Potato
+
+[vegetable]
+
+-Steak
+
+[meat]
