@@ -1,5 +1,10 @@
 -Chicken
+[meat]
 -Potato
+[vegetable]
 -Steak
+[meat]
 -Pizza
+[other]
 -Ham
+[meat]
